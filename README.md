@@ -131,14 +131,13 @@ mini_twitter/
         └── endpoints.py    # Все HTTP обработчики (CRUD операции)
 ```
 
-## 📝 Лицензия
-
-MIT License.
-
 ## 👤 Автор
 
 **jaydeadlondon**
 
 - GitHub: [@jaydeadlondon](https://github.com/jaydeadlondon)
 
+## 📝 Лицензия
+
+MIT License
 ---
