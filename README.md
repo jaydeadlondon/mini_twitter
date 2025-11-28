@@ -133,16 +133,12 @@ mini_twitter/
 
 ## 📝 Лицензия
 
-Этот проект распространяется под лицензией MIT License. Подробности в файле [LICENSE](LICENSE).
+MIT License.
 
 ## 👤 Автор
 
-**@jaydeadlondon**
+**jaydeadlondon**
+
+- GitHub: [@jaydeadlondon](https://github.com/jaydeadlondon)
 
 ---
-
-<div align="center">
-
-⭐ Если проект был полезен, поставьте звезду! ⭐
-
-</div>
